@@ -1,0 +1,16 @@
+PODS:
+  - QYExternalAccessory (0.1.0)
+
+DEPENDENCIES:
+  - QYExternalAccessory (from `../`)
+
+EXTERNAL SOURCES:
+  QYExternalAccessory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  QYExternalAccessory: ed8c6686c2105164f599eb190dcb7f51b843e9dc
+
+PODFILE CHECKSUM: c6b62154a30e3c89a533edcd11ff528e73569d92
+
+COCOAPODS: 1.11.2
